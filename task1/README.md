@@ -19,6 +19,5 @@
 https://www.figma.com/proto/KVmLzHDzeSBIlNfZe69im0/typography?page-id=0%3A1&node-id=2-5&p=f&viewport=724%2C235%2C0.11&t=s5R4tPd63HK1Qf3p-1&scaling=min-zoom&content-scaling=fixed
 <br>
 <br>
-<!--
 xfun::embed_file("task1.pdf")
 
